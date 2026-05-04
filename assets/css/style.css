@@ -13,7 +13,7 @@ body{
 
 
 
-/* Header nav styles start */
+/* ---- HEADER & NAVIGATION ---- */
 .header {
     position: fixed;
     top: 30px;
@@ -94,9 +94,7 @@ body{
     color: #ff589e;
 
 }
-/* Header nav styles end */
-
-/* Header background styles start */
+/* ---- HEADER BG ---- */
 .header-bg {
     background-image: url(../images/banner-bg.png);
     overflow: hidden;
@@ -106,9 +104,7 @@ body{
     background-size: cover;
     height: 100vh;
 }
-/* Header background styles end */
 
-/* Header content styles start */
 .header-text {
     position: absolute;
     top: 50%;
@@ -156,6 +152,7 @@ body{
     background-color: #9d5bd9;
 }
 
+/* ---- HOME FEATURE ---- */
 .home-feature {
     padding-bottom: 0px;
     padding-top: 30px;
@@ -223,10 +220,8 @@ body{
     position: relative;
     z-index: 2;
 }
-/* Header content styles end */
 
-
-/* About us styles start */
+/* ---- ABOUT US ---- */
 .section {
     /* position: relative; */
     padding-top: 100px;
@@ -269,10 +264,8 @@ body{
     line-height: 28px;
     letter-spacing: 1px;
 }
-/* About us styles end */
 
-
-/* Work process styles start */
+/* ---- WORK PROCESS ---- */
 .work-process {
     min-height: 355px;
     overflow: hidden;
@@ -393,10 +386,8 @@ body{
     line-height: 22px;
     width: 105px;
 }
-/* Work process styles end */
 
-
-/* Blog styles start */
+/* ---- BLOG ---- */
 .section-title {
     text-align: center;
 }
@@ -481,10 +472,9 @@ body{
 .blog-content .btn:hover {
     background-color: #ff589e;
 }
-/* Blog styles end */
 
 
-/* Contact Us styles start */
+/* ---- CONTACT US ---- */
 .contactUs {
     background: #f2f2fe;
 }
@@ -558,10 +548,8 @@ body{
 .form-btn:hover {
     background-color: #ff589e;
 }
-/* Contact Us styles end */
 
-
-/* Footer styles start */
+/* ---- FOOTER ---- */
 .footer {
     background-image: linear-gradient(127deg, #a759d1 0%, #8261ee 91%);
     padding-top: 30px;
@@ -621,9 +609,8 @@ body{
     letter-spacing: 0.88px;
     text-transform: uppercase;
 }
-/* Footer styles end */
 
-/* Animationes start */
+/* ---- ANIMATIONS ---- */
 @keyframes banerTitle {
     0% {
         transform: translateY(-100px);
@@ -645,10 +632,8 @@ body{
         opacity: 1;
     }
 }
-/* Animationes end */
 
-
-/* Responsive start */
+/* ---- RESPONSIVE ---- */
 @media screen and (min-width: 576px) {
     .container {
         max-width: 540px;
@@ -746,4 +731,3 @@ body{
         width: 80%;
     }
 }
-/* Responsive end */

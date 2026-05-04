@@ -42,19 +42,6 @@ It serves as a practical showcase of core CSS fundamentals and the ability to bu
 
 ---
 
-## 📁 Project Structure
-
-```bash
-project/
-│── index.html
-│── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   └── logo/
-```
----
-
 ## 🌐 Live Preview
 
 > (Add your deployed project link here, e.g., GitHub Pages)

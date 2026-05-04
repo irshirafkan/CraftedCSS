@@ -46,7 +46,7 @@ body{
     position: relative;
 }
 
-.hamburger-menu {
+.menu-toggle {
     display: none;
     position: absolute;
     right: 30px;
@@ -60,7 +60,7 @@ body{
 }
 
 .logo-box img {
-    width: 95px;
+    width: 115px;
 }
 
 .main-menu {
@@ -698,7 +698,7 @@ body{
 }
 
 @media screen and (max-width: 992px) {
-    .hamburger-menu {
+    .menu-toggle {
         display: inline-block;
     }
     .main-menu {

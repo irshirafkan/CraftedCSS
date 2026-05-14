@@ -64,4 +64,4 @@ This project intentionally avoids using Flexbox and Grid to focus on mastering c
 
 ## 🙋‍♀️ Author
 
-Made with ❤️ by **Fatemeh Shirafkan**
+Developed with ❤️ by **Fatemeh Shirafkan**
